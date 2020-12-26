@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.xmos.cdt.core.simulatorLaunchDebug">
+<stringAttribute key="com.xmos.cdt.device_id" value="4af8ab86"/>
+<stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_ID" value="com.xmos.cdt.debug.core.debugger"/>
+<stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_REGISTER_GROUPS" value=""/>
+<stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_START_MODE" value="run"/>
+<booleanAttribute key="org.eclipse.cdt.launch.DEBUGGER_STOP_AT_MAIN" value="false"/>
+<stringAttribute key="org.eclipse.cdt.launch.FORMAT" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&lt;contentList&gt;&lt;content id=&quot;uintRandomArr[0]-uintRandomArr--(format)&quot; val=&quot;4&quot;/&gt;&lt;content id=&quot;uintRandomArr[1]-uintRandomArr--(format)&quot; val=&quot;4&quot;/&gt;&lt;content id=&quot;uintRandomArr[2]-uintRandomArr--(format)&quot; val=&quot;4&quot;/&gt;&lt;content id=&quot;uintRandomArr[3]-uintRandomArr--(format)&quot; val=&quot;4&quot;/&gt;&lt;content id=&quot;uintRandomArr[4]-uintRandomArr--(format)&quot; val=&quot;4&quot;/&gt;&lt;/contentList&gt;"/>
+<stringAttribute key="org.eclipse.cdt.launch.GLOBAL_VARIABLES" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;globalVariableList&gt;&#13;&#10;&lt;globalVariable name=&quot;uintRandomArr&quot; path=&quot;&quot;/&gt;&#13;&#10;&lt;/globalVariableList&gt;&#13;&#10;"/>
+<stringAttribute key="org.eclipse.cdt.launch.MEMORY_BLOCKS" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;memoryBlockExpressionList/&gt;&#13;&#10;"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROGRAM_NAME" value="bin/Debug/I-T004_Debug.xe"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value="I-T004"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROJECT_BUILD_CONFIG_ID_ATTR" value="com.xmos.cdt.toolchain.1837488822"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/I-T004"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="4"/>
+</listAttribute>
+</launchConfiguration>

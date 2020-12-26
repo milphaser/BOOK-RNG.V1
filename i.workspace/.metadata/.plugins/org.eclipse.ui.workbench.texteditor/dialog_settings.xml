@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="257" key="DIALOG_WIDTH"/>
+		<item value="223" key="DIALOG_Y_ORIGIN"/>
+		<item value="380" key="DIALOG_HEIGHT"/>
+		<item value="697" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wholeword"/>
+		<item value="hlChiD" key="selection"/>
+		<list key="findhistory">
+			<item value="hlChiD"/>
+			<item value="queueRandomSeq"/>
+			<item value="LED_PERIOD"/>
+			<item value="dequeRandomSeq"/>
+			<item value="deque"/>
+			<item value="DEQUE"/>
+			<item value="iportButStop"/>
+			<item value="taskL"/>
+		</list>
+		<list key="replacehistory">
+			<item value="queueRandomSeq"/>
+			<item value="queue"/>
+			<item value="QUEUE"/>
+			<item value="NW_AM"/>
+			<item value="ChiD"/>
+			<item value="NW"/>
+			<item value="chanRight"/>
+			<item value="taskQ"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="357" key="DIALOG_Y_ORIGIN"/>
+		<item value="532" key="DIALOG_X_ORIGIN"/>
+	</section>
+</section>
